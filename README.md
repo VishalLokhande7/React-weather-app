@@ -204,17 +204,21 @@ During this project, I gained practical experience in:
 
 # 👨‍💻 About Me
 
+<div align="center">
+
 ## Vishal Lokhande
 
-💻 **Full Stack Development | 🧠 Data Structures & Algorithms | 🤖 Exploring AI & ML**
+💻 **Full Stack Development | Strong Data Structures & Algorithms | Exploring AI & Machine Learning**
 
-🌱 Passionate about building modern, responsive, and user-friendly web applications while continuously learning new technologies.
-
-### Connect with Me
-
-**GitHub:** https://github.com/VishalLokhande7
+🌱 Passionate about building modern, scalable, and impactful software solutions while continuously learning new technologies.
 
 > **"Turning imagination into reality through code."**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-VishalLokhande7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishalLokhande7)
+
+</div>
 
 ---
 
