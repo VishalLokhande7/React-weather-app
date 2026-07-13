@@ -1,12 +1,8 @@
-// import './App.css'
-import WeatherApp from './WeatherApp.jsx';
-
 function App() {
- 
- return (
-    <>
-      <WeatherApp />
-    </>
+  return (
+    <div style={{ padding: "40px", fontSize: "40px" }}>
+      Hello Vercel
+    </div>
   );
 }
 
